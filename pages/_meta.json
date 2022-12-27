@@ -22,5 +22,10 @@
   "projects": {
     "title": "Projects",
     "type": "page"
-  }
+  },
+
+  "classes": {
+    "title": "Classes",
+    "type": "page"
+  },
 }
